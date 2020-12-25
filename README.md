@@ -19,8 +19,8 @@ Python, PyTorch, OpenCV, NumPy, Pillow<br/>
 ## Usage
 Download the wieghts from google drive: https://drive.google.com/file/d/1QMXbDNjkxYlM_gmMuW6pKXu9tEbeO7Jp/view?usp=sharing
 
--Run **webcam.py** to run the inference.
+- Run **webcam.py** to run the inference.
 
--Run **train.py** for training.
+- Run **train.py** for training.
 
--Run **test.py** for testing the images (for example: **python3 test.py --imagePath imagesForTest\test3.jpg**)
+- Run **test.py** for testing the images (for example: **python3 test.py --imagePath imagesForTest\test3.jpg**)
