@@ -11,9 +11,9 @@ For using this package, It is necessary to have a webcam besidw the chair. The n
 ![Hunched Detection deep learning jetson nano](https://raw.githubusercontent.com/mhranjbar/Hunched-Detection-with-Jetson-Nano/main/demo2.jpg)
 
 ## Requirements
-Webcam
-Jetson Nano (or any other computer)
-Python, PyTorch, OpenCV, NumPy, Pillow
+Webcam<br/>
+Jetson Nano (or any other computer)<br/>
+Python, PyTorch, OpenCV, NumPy, Pillow<br/>
 
 
 ## Usage
