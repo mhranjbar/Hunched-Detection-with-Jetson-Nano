@@ -1,6 +1,6 @@
 # Hunched-Detection-with-Jetson-Nano
 
-#Hunched Detection with Jetson Nano using deep neural networks
+# Hunched Detection with Jetson Nano using deep neural networks
 
 Sitting on a chair for studying, reading, working with a laptop, etc. are the habits of human of century 21.
 It can cause serious injuries for a long time because the back will tend to a hunched position. In this repository, I've provided the package using deep neural networks that can use in Jetson Nano (also on any computer) to avoid sitting in the hunched position.
