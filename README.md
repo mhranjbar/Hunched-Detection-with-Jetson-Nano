@@ -12,6 +12,8 @@ For using this package, It is necessary to have a webcam besidw the chair. The n
 
 ## Technical details
 
+The main architecture of the net is ResNet-18. ResNet-18 is ended with 512 to 2 fully connected layers. Pytorch framework is used for train, test, and inference.<br/>
+
 |   | Accuracy | No. of Data |
 | ------------- | ------------- | ------------- |
 | Train  | 97%  | 163  |
