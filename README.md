@@ -9,4 +9,8 @@ For using this package, It is necessary to have a webcam besidw the chair. The n
 # Requirements
 Webcam
 Jetson Nano (or any other computer)
-Python, PyTorch, OpenCV, NumPy, Pillow, 
+Python, PyTorch, OpenCV, NumPy, Pillow
+
+
+# Usage
+Download the wieghts from google drive: https://drive.google.com/file/d/1QMXbDNjkxYlM_gmMuW6pKXu9tEbeO7Jp/view?usp=sharing
