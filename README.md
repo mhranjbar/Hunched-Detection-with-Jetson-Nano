@@ -33,3 +33,6 @@ Python, PyTorch, OpenCV, NumPy, Pillow<br/>
 - Run **train.py** for training.
 
 - Run **test.py** for testing the images (for example: **python3 test.py --imagePath imagesForTest\test3.jpg**)
+
+
+## Thanks to Nvidia!
