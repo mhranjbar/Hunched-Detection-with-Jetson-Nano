@@ -10,6 +10,8 @@ For using this package, It is necessary to have a webcam beside the chair. The n
 
 ![Hunched Detection deep learning jetson nano](https://raw.githubusercontent.com/mhranjbar/Hunched-Detection-with-Jetson-Nano/main/demo2.jpg)
 
+![Hunched Detection deep learning jetson nano](https://raw.githubusercontent.com/mhranjbar/Hunched-Detection-with-Jetson-Nano/main/Place.jpg)
+
 ## Technical details
 
 The main architecture of the net is ResNet-18. ResNet-18 is ended with 512 to 2 fully connected layers. Pytorch framework is used for train, test, and inference.<br/>
